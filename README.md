@@ -4,8 +4,6 @@ I'm Samara and I'm a web development professional passionate about the universe 
 
 ## Tools and Technologies
 
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
 
 
 
