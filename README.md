@@ -25,7 +25,7 @@ IDE
 
 ## Useful Links
 - [Portfólio](https://www.samara.dev.br)
-- [Medium]([https://samaradev.medium.com])
+- [Medium](https://samaradev.medium.com)
 - [LinkedIn](https://www.linkedin.com/in/samara-dumont-fadigas)
 
 
