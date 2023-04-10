@@ -5,11 +5,7 @@ I'm Samara and I'm a web development professional passionate about the universe 
 ## Technical Skills
 Languages: 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="40" height="40"/>         
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"  width="40" height="40"/>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"  width="40" height="40"/>          
           
 Frameworks:
 
