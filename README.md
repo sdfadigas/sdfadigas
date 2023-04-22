@@ -8,6 +8,8 @@ I'm Samara and I'm a web development professional passionate about the universe 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sdfadigas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+          ![Snake animation](https://github.com/sdfadigas/sdfadigas/blob/output/github-contribution-grid-snake.svg)
+
 ## Technical Skills
 Languages: 
 
