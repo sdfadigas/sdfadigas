@@ -4,8 +4,8 @@ I'm Samara and I'm a web development professional passionate about the universe 
 
 <div>
 <a href="https://github.com/sdfadigas">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?sdfadigas&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?sdfadigas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Technical Skills
