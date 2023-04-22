@@ -3,7 +3,13 @@
 I'm Samara and I'm a web development professional passionate about the universe of technology and its possibilities. A strong communicator, who worked for years in science communication in the non-profit sector, having built editing and communication skills in social media, as well as research and teaching skills. As a researcher, I developed skills in problem solving with creativity and organization, in addition to the practical use of data analysis and statistics, coupled with a strong ability in communication, interpersonal relationships and leadership.
 
 
-![Samara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdfadigas&show_icons=true&theme=great-gatsby)![Samara's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sdfadigas&layout=compact&langs_count=7&theme=great-gatsby)
+
+
+<div>
+<a href="https://github.com/sdfadigas">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sdfadigas&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdfadigas&layout=compact&langs_count=7&theme=great-gatsby"/>
+</div>
 
 
 
